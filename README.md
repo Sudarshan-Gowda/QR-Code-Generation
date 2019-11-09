@@ -12,7 +12,7 @@ Our issue tracker is available here: https://github.com/Sudarshan-Gowda/QR-Code-
 
 ## Working with this project in Spring Tool Suite or Eclipse
 
-### prerequisites
+### Prerequisites
 The following items should be installed in your system:
 * STS - 3.0 Plus or Any version of Eclipse
 * Server - Apache tomcat or Any other Server
