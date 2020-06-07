@@ -38,11 +38,17 @@ File -> Import -> Maven -> Existing Maven project
 
 ## Steps to test the application:
 
-1) Once the application is installed properly, Run the application by adding server or build and deploy to webapps directory in server
-2) Once the application deployed successfully means hit the URL from your browser. (http://localhost:8080/QR-Code-Generation).For Reference [Click to View](https://github.com/Sudarshan-Gowda/QR-Code-Generation/blob/master/docs/picture1.png)
-3) Enter the details or Content to generate QR code as shown in Image [Click to View](https://github.com/Sudarshan-Gowda/QR-Code-Generation/blob/master/docs/picture2.png)
-4) Once you hit the Submit button QR Code will be generated with entered text. For reference [click here] to view image (https://github.com/Sudarshan-Gowda/QR-Code-Generation/blob/master/docs/picture3.png).
-5) To verify or Scan the Generated QR Code, Download any mobile app named QR Code Scanner from playstore or App Store and scan it, You will be propmt with the text or content of QR Code.
+1) Once the application is installed properly, Run the application by adding server or build and deploy to webapps directory in server<br>
+
+2) Once the application deployed successfully means hit the URL from your browser. (http://localhost:8080/QR-Code-Generation).For Reference 
+<img src="https://github.com/Sudarshan-Gowda/QR-Code-Generation/blob/master/docs/picture1.png">
+3) Enter the details or Content to generate QR code as shown in Image 
+<img src="https://github.com/Sudarshan-Gowda/QR-Code-Generation/blob/master/docs/picture2.png"/>
+
+4) Once you hit the Submit button QR Code will be generated with entered text. For reference 
+<img src="https://github.com/Sudarshan-Gowda/QR-Code-Generation/blob/master/docs/picture3.png"/>
+
+5) To verify or Scan the Generated QR Code, Download any mobile app named QR Code Scanner from playstore or App Store and scan it, You will be propmt with the text or content of QR Code.<br>
    
 # Contributing
 
